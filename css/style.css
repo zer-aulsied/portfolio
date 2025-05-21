@@ -38,7 +38,7 @@ nav ul li a {
 }
 
 nav ul li a:hover {
-  color: #0ff;
+  color: rgb(209, 70, 70);
 }
 
 /* Contact Page */
@@ -316,12 +316,12 @@ header {
   text-align: center;
   padding: 20px 0;
   background-color: rgba(0,0,0,0.7);
-  border-bottom: 2px solid #0ff;
+  border-bottom: 2px solid rgb(209, 70, 70);
 }
 
 header h1 {
   margin: 0;
-  color: #0ff;
+  color: rgb(209, 70, 70);
   font-size: 20px;
 }
 
@@ -338,13 +338,13 @@ nav a {
   text-decoration: none;
   color: #fff;
   font-size: 12px;
-  border: 2px solid #0ff;
+  border: 2px solid rgb(209, 70, 70);
   padding: 5px 10px;
   transition: 0.3s;
 }
 
 nav a:hover {
-  background-color: #0ff;
+  background-color: rgb(209, 70, 70);
   color: #000;
 }
 
@@ -371,9 +371,9 @@ nav a:hover {
 }
 
 .btn {
-  color: #0ff;
+  color: rgb(255, 255, 255);
   background: transparent;
-  border: 2px solid #0ff;
+  border: 2px solid rgb(209, 70, 70);
   padding: 10px 20px;
   font-size: 12px;
   text-decoration: none;
@@ -381,7 +381,7 @@ nav a:hover {
 }
 
 .btn:hover {
-  background-color: #0ff;
+  background-color: rgb(209, 70, 70);
   color: #000;
 }
 
