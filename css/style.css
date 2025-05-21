@@ -240,7 +240,7 @@ body.blog-page{
   margin: 0;
   font-family: 'Press Start 2P', monospace;
   color: white;
-  background: url('../img/17.gif') no-repeat center center fixed;
+  background: url('../img/12.gif') no-repeat center center fixed;
   background-size: cover;
   min-height: 100vh;
   display: flex;
@@ -507,7 +507,7 @@ nav a:hover {
   transform: scale(1.1);
 }
 
-rgb(209, 70, 70)
+
 
 
 
